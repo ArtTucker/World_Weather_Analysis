@@ -30,6 +30,7 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 170,Eureka,US,54.0,overcast clouds,40.8,-124.16,Eureka Inn Trademark By Wyndham
 175,Sheridan,US,32.0,clear sky,44.83,-106.92,Best Western Sheridan Center
 180,Sakai,JP,48.2,few clouds,34.58,135.47,Osaka Joytel Hotel
+192,Karakol,KG,30.94,broken clouds,42.49,78.39,"Gostinitsa ""Al'tamira"""
 195,Quzhou,CN,52.81,scattered clouds,28.96,118.87,Quzhou Jiujiu Business Hotel
 197,Shingu,JP,46.4,few clouds,33.73,135.98,Shingu UI Hotel
 201,Muros,ES,39.99,clear sky,42.78,-9.06,Apartment Av. Castelao
@@ -67,7 +68,9 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 395,Mantua,IT,39.99,few clouds,45.17,10.78,Hotel la Favorita
 396,Palmer,US,32.0,overcast clouds,42.16,-72.33,Wedgewood Motel
 398,Komsomolskiy,UZ,37.4,mist,40.43,71.72,Ikathouse
+402,Olafsvik,IS,30.92,light snow,64.89,-23.71,Hotel Olafsvik
 405,Cervia,IT,48.99,broken clouds,44.27,12.34,Color Beach Hotel Metropolitan Milano Marittima
+415,Meadow Lake,US,30.0,clear sky,34.8,-106.54,JKL Inc. R.V Park and Storage
 419,Burgos,ES,32.0,light snow,42.34,-3.71,Hotel Corona de Castilla (Sercotel)
 420,Punta Arenas,CL,48.2,overcast clouds,-53.15,-70.92,Hotel Dreams Del Estrecho
 425,Turayf,SA,50.0,clear sky,31.67,38.66,Swiss Spirit Hotel & Suites Turaif
@@ -105,10 +108,12 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 617,Alamogordo,US,32.0,clear sky,32.9,-105.96,Fairfield Inn & Suites by Marriott Alamogordo
 625,Christchurch,NZ,53.01,moderate rain,-43.53,172.63,"Chateau on the Park - Christchurch, a DoubleTree by Hilton"
 628,Skegness,GB,41.0,broken clouds,53.14,0.34,The Royal Hotel
+629,Chase,CA,30.99,snow,50.82,-119.69,Chase Country Inn Motel
 633,Krasnoye,UA,32.0,overcast clouds,49.91,24.61,Feniks
 637,Eaton Socon,GB,42.01,overcast clouds,52.22,-0.29,Premier Inn St. Neots (A1/Wyboston) hotel
 638,Orasac,BA,34.03,snow,44.63,16.07,Guesthouse Huco & Rasema
 641,Zhanakorgan,KZ,34.47,overcast clouds,43.91,67.25,"""Ақпалас"" қонақ үйі"
+646,Rapid Valley,US,30.99,clear sky,44.06,-103.15,Fairfield Inn & Suites by Marriott Rapid City
 656,Morro Bay,US,53.01,broken clouds,35.37,-120.85,Inn at Morro Bay
 665,Tarragona,ES,43.0,clear sky,41.13,1.25,Hotel SB Ciutat de Tarragona
 680,Fortuna,US,54.0,overcast clouds,40.6,-124.16,Super 8 by Wyndham Fortuna
@@ -120,6 +125,7 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 708,Kosonsoy,UZ,39.2,moderate rain,41.26,71.55,"Гостиница ""Goldstar'"
 710,Werder,DE,33.01,overcast clouds,52.38,12.93,Landhotel Potsdam
 716,Dubrovnik,HR,50.0,moderate rain,42.65,18.09,Hotel Dubrovnik Palace
+722,Joniskis,LT,30.2,mist,56.24,23.62,Audruvis
 732,Roding,DE,32.0,clear sky,49.2,12.52,City Hotel Roding
 735,London,GB,42.8,overcast clouds,51.51,-0.13,"Radisson Blu Edwardian, Hampshire"
 751,Zherdevka,RU,34.7,light snow,51.85,41.46,Юнона
@@ -128,6 +134,9 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 761,Jishou,CN,53.85,scattered clouds,28.32,109.72,7Days Inn Jishou Railway Station
 769,Huntingdon,GB,39.99,overcast clouds,52.33,-0.19,Huntingdon Marriott Hotel
 772,Portland,US,48.99,overcast clouds,45.52,-122.68,The Bidwell Marriott Portland
+778,Bjorkelangen,NO,30.0,overcast clouds,59.88,11.57,Construction And Import Norway As - Your house and cottage producer
+780,Jinchang,CN,30.25,clear sky,38.5,102.17,Mingshihui Jinchang International Hotel
+791,Jesup,US,30.2,clear sky,31.61,-81.89,Western Motel
 792,Lubin,PL,36.0,broken clouds,51.4,16.2,Martiz. Hotel
 797,Millinocket,US,53.6,overcast clouds,45.66,-68.71,Katahdin Inn & Suites
 800,Bialystok,PL,34.0,broken clouds,53.13,23.15,"Hotel Podlasie Białystok - sala konferencyjna, sala weselna"
@@ -136,3 +145,5 @@ City_ID,City,Country,Max Temp,Description,Lat,Lng,Hotel Name
 809,Fuling,CN,49.6,overcast clouds,29.7,107.39,Yingbin Hostel
 810,Zile,TR,44.6,scattered clouds,40.3,35.89,Zile Öğretmen evi
 820,Huilong,CN,54.0,overcast clouds,31.81,121.66,Hilton Garden Inn Qidong
+827,Ponferrada,ES,30.0,clear sky,42.55,-6.6,Hotel Temple Ponferrada
+829,Helena,US,30.2,overcast clouds,46.59,-112.04,Holiday Inn Express & Suites Helena
